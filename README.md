@@ -5,4 +5,5 @@ Silakan kembangkan fitur sesuai dengan soal studi kasus.
 
 # Deskripsi Aplikasi
 
-Aplikasi ini dirancang untuk membantu pengguna dalam memgelola proyek Git secara kolaboratif dengan mudah dan efisien.
+Aplikasi ini dirancang untuk membantu pengguna dalam memgelola proyek 
+Git secara kolaboratif dengan mudah dan efisien.
